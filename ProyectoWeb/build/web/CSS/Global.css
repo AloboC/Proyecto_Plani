@@ -1,0 +1,31 @@
+.img{
+   background-image:url('../images/planillas-01.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+     position: absolute;
+    top: 0px;
+    bottom:0px;
+    left: 0px;
+    right: 0px;
+    opacity: 0.3;
+    z-index: -1;
+}
+
+.cab{
+    background-color:rgba(249, 243, 155,0.1);
+    margin-bottom: 0px;
+    height: 70px;
+    padding-top: 20px;
+}
+
+.cabTabla{
+    background-color: #002752;
+    color: #ffffff;
+}
+body{
+    
+    background-color: #ffffff;
+    max-width: 90%;
+    margin: 0 auto; 
+   
+}
